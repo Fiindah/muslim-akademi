@@ -195,6 +195,7 @@ a {
     flex: 1;
     display: flex;
     align-items: center;
+    margin-buttom: 25px;
 }
 
 .content .content-description {
@@ -233,7 +234,8 @@ a {
 .content .content-image img {
     margin: auto;
     min-width: 250px;
-    width: 350px;
+    width: 250px;
+    height: 150px;
 }
 
 /*
